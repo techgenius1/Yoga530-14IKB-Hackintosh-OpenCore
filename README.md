@@ -2,7 +2,7 @@
 # Lenovo Yoga 530-14IKB-81EK Hackintosh
 
 macOS Big Sur on Lenovo Yoga 530-14IKB-81EK with OpenCore 0.6.6 EFI folder
-<img src="https://github.com/techgenius1/Yoga530-14IKB-Hackintosh-OpenCore/blob/master/BigSurYoga540.png?raw=true" alt="look">
+<img src="https://github.com/techgenius1/Yoga530-14IKB-Hackintosh-OpenCore/blob/main/BigSurYoga530.png?raw=true" alt="look">
 
 ## Configuration
 
