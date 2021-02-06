@@ -45,6 +45,9 @@ macOS Big Sur on Lenovo Yoga 530-14IKB-81EK with OpenCore 0.6.6 EFI folder
 - It is highly recommended that you use [ProperTree](https://github.com/corpnewt/ProperTree) or OpenCore Configurator to make any changes to the config.plist in `\EFI\OC`, otherwise you may corrupt the file.
 - Add `BOOT` and `OC` folders to your EFI partition.
 
+- Use `config_Backup.plist` if you cant see MacOS Installer on OpenCore Selector.
+- Hold ESC key before booting to show OpenCore Picker on `config.plist`
+
 ## FAQ
 
 ### My touchpad isn't working after update.
